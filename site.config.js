@@ -4,8 +4,8 @@ const CONFIG = {
     name: "Seung IL Bang",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "backend developer",
-    bio: "Keep Enjoy Develop",
-    email: "seungilbang@khu.ac.kr",
+    bio: "백엔드 개발자 노트",
+    email: "bsi0507@gmail.com",
     linkedin: "",
     github: "Seung-IL-Bang",
     instagram: "",
@@ -14,6 +14,10 @@ const CONFIG = {
     {
       name: `MyCodeReview`,
       href: "https://github.com/Seung-IL-Bang/MyCodeReview_backend",
+    },
+    {
+      name: `Class4989`,
+      href: "https://github.com/Seung-IL-Bang/seb40_main_008",
     },
   ],
   // blog setting (required)
